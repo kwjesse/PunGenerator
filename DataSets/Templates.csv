@@ -1,0 +1,5 @@
+﻿Sentence,First_Parts_Of_Speech,Second_Parts_Of_Speech,Is_Negative
+What do you get when you cross _ with _?,NN/JJ,NN/JJ,0
+What do you get when you cross _ with not _?,NN/JJ,NN/JJ,1
+What do you _ that is _?,V,NN/JJ,0
+What do you _ that is not _?,V,NN/JJ,1
